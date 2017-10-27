@@ -11,6 +11,7 @@
 		CGPROGRAM
 
 		#pragma surface surf Lambert
+		#pragma enable_d3d11_debug_symbols
 
 
 		sampler2D _MainTex;

@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: baseMat
-  m_Shader: {fileID: 4800000, guid: 2bdf64f5f31b704439b1f6bd119c934f, type: 3}
+  m_Shader: {fileID: 4800000, guid: 3c7684edd29bc194e9c592cddd42ff0d, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -22,7 +22,15 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Cloud:
+        m_Texture: {fileID: 2800000, guid: 83143227d5c452b44866dc8211f1fe7a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubemap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -70,8 +78,9 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ScrollXSpeed: 0
-    - _ScrollYSpeed: 0
+    - _ReflAmount: 0.05
+    - _ScrollXSpeed: 0.3
+    - _ScrollYSpeed: 0.6
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1

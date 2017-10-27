@@ -13,6 +13,7 @@
 		
 		//#pragma surface surf Lambert	//unity 4.x 非物理光照，低端设备上渲染更快
 		#pragma surface surf Standard
+		#pragma enable_d3d11_debug_symbols
 
 		sampler2D _MainTex;
 
