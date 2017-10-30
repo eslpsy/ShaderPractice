@@ -66,6 +66,7 @@ S:/UNITY5.4/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor
 S:/UNITY5.4/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
 S:/UNITY5.4/Editor/Data/Managed/UnityEditor.Graphs.dll
 S:/UNITY5.4/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+S:/UNITY5.4/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 S:/UNITY5.4/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
 C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
 C:/Users/11828/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@1.0.7/Editor/UnityEditor.Advertisements.dll
